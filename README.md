@@ -5,5 +5,3 @@
 ## Welcome! 👋
 
 ### Hello, this is my take on front-end mentor challenge, using HTML,CSS & JS technologies.
-
-#### Project should work well both on mobile & desktop
